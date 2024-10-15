@@ -24,7 +24,9 @@ ESP32IGate is a Internet Gateway(IGate)/Dital Repeater(DiGi)/Tracker/Weather(WX)
 * support global time zone
 * support web service auth login
 * display received and transmit packet on the LED and display OLED
-
+* web login :admin /admin
+* wifi sta:APRSTH wifi sta pass:aprsthnetwork
+* AP ssid:ESP32IGate ,AP Password:aprsthnetwork
 ## Hardware screen short
 ![esp32dr_simple](image/ESP32DR_Simple_Test.png) ![esp32dr_sa868](image/ESP32DR_SA868_2.png)
 ![esp32dr_sa868_pcb](doc/ESP32DR_SA868/ESP32DR_SA868_Block.png)
