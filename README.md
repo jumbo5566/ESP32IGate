@@ -38,7 +38,7 @@ ESP32IGate is a Internet Gateway(IGate)/Dital Repeater(DiGi)/Tracker/Weather(WX)
 
 
 ### Schematic
-
+https://github.com/jumbo5566/M17GatewayHW/blob/main/Schematic_M17AnalogGateway_2022-07-30.pdf
 
 ## ESP32IGate firmware installation (do it first time, next time via the web browser)
 - 1.Connect the USB cable to the ESP32 Module.
