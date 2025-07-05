@@ -80,11 +80,11 @@ ModbusMaster modbus;
 // #define WIRE 4
 //  #define POWER_PIN 12
 //  #define PULLDOWN_PIN 27
-//  #define SQL_PIN 33
+ #define SQL_PIN 32
 
 // #define MODEM_PWRKEY 5
-// #define MODEM_TX 17
-// #define MODEM_RX 16
+#define MODEM_TX 16
+#define MODEM_RX 17
 
 #define LED_TX 4
 #define LED_RX 2
